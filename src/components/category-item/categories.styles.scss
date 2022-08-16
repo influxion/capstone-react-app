@@ -54,14 +54,15 @@
     position: absolute;
 
     h2 {
-      font-weight: bold;
-      margin: 0 6px 0;
+      font-weight: 700;
+      margin: 0 6px 10px;
       font-size: 22px;
       color: #4a4a4a;
+      text-transform: capitalize;
     }
 
     p {
-      font-weight: lighter;
+      font-weight: 400;
       font-size: 16px;
     }
   }
